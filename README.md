@@ -21,9 +21,9 @@ algorithm to send push notification when an hour or two isnt taken up by classes
 
 until total time worked on the project has been completed
 
-prompt for an update on how many hours you believe are still remaining after you finish working (promp another popup an hour or two after "working on it now" has been pressed
+prompt for an update on how many hours you believe are still remaining after you finish working (promp another popup an hour or two after "working on it now" has been pressed)
 
 
-if the popup comes up when use is busy, provide options for (working on it now, busy for next X hour(s)
+if the popup comes up when use is busy, provide options for (working on it now, busy for next X hour(s), remind me when I get home)
 
 popup will come up again after the number of hours that the person is 'busy'
