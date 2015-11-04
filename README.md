@@ -10,7 +10,7 @@ enter class schedule
 
 main menu, select semester/add semester
 
-enter the item you need to get done
+enter the item you need to get done (allow for reoccurring items like remote work at JP)
 
 enter the day that it needs to be done by
 
