@@ -7,6 +7,7 @@ engineer's stack productivity tool
 First time run
 
 enter class schedule
+enter the time you ideally want to have free time/night off
 
 main menu, select semester/add semester
 
